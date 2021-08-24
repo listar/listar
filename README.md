@@ -2,7 +2,7 @@
 
 I’m **Star**
 
-- 🔭 I’m currently learning React、Vue、Golang
+- 🔭 I’m currently learning React、Vue、TypeScript、Golang
 
 <!--
 **listar/listar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
